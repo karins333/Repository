@@ -1,0 +1,318 @@
+LOCUS       AY571333                 594 bp    mRNA    linear   PLN 11-FEB-2005
+DEFINITION  Brassica oleracea water stress induced protein mRNA, complete cds.
+ACCESSION   AY571333
+VERSION     AY571333.1
+KEYWORDS    .
+SOURCE      Brassica oleracea (wild cabbage)
+  ORGANISM  Brassica oleracea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Brassica.
+REFERENCE   1  (bases 1 to 594)
+  AUTHORS   Li,Z., Zhao,L., Kai,G., Yu,S., Cao,Y., Pang,Y., Sun,X. and Tang,K.
+  TITLE     Cloning and expression analysis of a water stress-induced gene from
+            Brassica oleracea
+  JOURNAL   Plant Physiol. Biochem. 42 (10), 789-794 (2004)
+   PUBMED   15596098
+REFERENCE   2  (bases 1 to 594)
+  AUTHORS   Li,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAR-2004) Plant Biotechnology Research Centre,
+            Shanghaijiaotong University, 1954 Huashan Road, Shanghai 200030,
+            China
+FEATURES             Location/Qualifiers
+     source          1..594
+                     /organism="Brassica oleracea"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3712"
+                     /note="authority: Brassica oleracea L."
+     CDS             60..347
+                     /note="BoWS"
+                     /codon_start=1
+                     /product="water stress induced protein"
+                     /protein_id="AAS77419.1"
+                     /translation="MAGIINKIGDALHIGGGNKEDEHKKEEHKKHADEHKSGEHKEGI
+                     VDKIKDKIQGGEGHSSGDHKHDGEKKKKKDKKEKKHHHDGHHSSSSDSDSD"
+ORIGIN      
+        1 ggaggatcca acacccataa aagagtgatt aaatttagta gaaaagaaag agatcagata
+       61 tggcaggaat catcaacaag atcggagatg ctctccacat cggaggaggc aacaaggaag
+      121 atgagcacaa gaaggaggaa cacaagaaac acgccgacga gcacaagagt ggtgagcaca
+      181 aggagggtat cgttgataag atcaaagaca agatccaagg cggagaaggc cacagcagcg
+      241 gagaccacaa acatgacggt gagaagaaaa agaagaagga caagaaggag aagaaacatc
+      301 atcatgatgg tcaccacagc agcagcagtg acagcgacag cgattaaagg ttaggaggac
+      361 gtgaggagaa ctattaatgc tgcggttgtc tgttcctatc atctcactct ttgacagaga
+      421 ggggttaatt gaaaagagaa gagtgcatct gtcttccttt attatctaat tttcttttaa
+      481 ttgtcatttt cttctcttat gtttatgttc tcttgtcaga aaaaaataaa cctcatgttt
+      541 cgtaatctat attaataaaa tcgagtttct aactaaaaaa aaaaaaaaaa aaaa
+//
+
+LOCUS       BNACYTB5A                738 bp    mRNA    linear   PLN 27-APR-1993
+DEFINITION  Brassica oleracea cytochrome b-5 mRNA, complete cds.
+ACCESSION   M87514
+VERSION     M87514.1
+KEYWORDS    cytochrome b-5.
+SOURCE      Brassica oleracea (wild cabbage)
+  ORGANISM  Brassica oleracea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Brassica.
+REFERENCE   1  (bases 1 to 738)
+  AUTHORS   Kearns,E.V., Keck,P. and Somerville,C.R.
+  TITLE     Nucleotide sequence of cDNA for cytochrome b5 from cauliflower
+            (Brassica oleracea L.)
+  JOURNAL   Unpublished
+COMMENT     Original source text: Brassica oleracea florets cDNA to mRNA.
+FEATURES             Location/Qualifiers
+     source          1..738
+                     /organism="Brassica oleracea"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3712"
+                     /tissue_type="florets"
+     gene            1..738
+                     /gene="cytochrome b-5"
+     CDS             96..500
+                     /gene="cytochrome b-5"
+                     /codon_start=1
+                     /product="cytochrome b-5"
+                     /protein_id="AAA32990.1"
+                     /translation="MASEKKVLGFEEVSQHNKTKDCWLIISGKVYDVTPFMDDHPGGD
+                     EVLLSSTGKDATNDFEDVGHSDTARDMMEKYYIGEIDSSTVPATRTYVAPVQPAYNQD
+                     KTPEFMIKILQFLVPILILGLALVVRQYTKKE"
+     polyA_site      489..508
+                     /gene="cytochrome b-5"
+                     /note="putative"
+     polyA_site      580..599
+                     /gene="cytochrome b-5"
+ORIGIN      
+        1 agttctcaag taggtgaaga gttaccccac caggtgctat cgcaattctg aatctgaaag
+       61 cagaaagatc ccccaccttt gatttgagga gagagatggc ttcagagaag aaggttctag
+      121 gtttcgaaga agtttcgcag cacaacaaaa ccaaggattg ttggcttatt atctccggca
+      181 aggtctatga tgtgacccct ttcatggatg atcatcccgg tggcgatgaa gtgttattgt
+      241 cctcaacagg gaaagatgct acgaatgact ttgaagacgt tggtcacagc gacaccgcga
+      301 gggacatgat ggagaagtac tacattggcg agatcgattc gtctactgtt ccagcgacaa
+      361 ggacatacgt tgcaccagtg caacccgcgt acaaccaaga caagacacca gaattcatga
+      421 tcaagatcct tcagttcctt gttccaatct tgatcttggg tcttgctctc gtcgtccgtc
+      481 agtatactaa gaaagagtag aagcagagag aggcttgcgg tattgcttcc cattggataa
+      541 ctctttctca tatctctgta tttcgaaacc ttggtttggt tctagattgc acacctctgt
+      601 tctaaaaatt attcttgtta gaactactat aaaccaataa tcaatgtgtt gttagtgttt
+      661 tcgttggtgg tatcatctgg tttattttgt gtgttgattg agatgtgttc aactttgatg
+      721 atcaaataaa agagtgtt
+//
+
+LOCUS       JN859553                1155 bp    DNA     linear   PLN 19-NOV-2013
+DEFINITION  Brassica oleracea FAD2-2 gene, complete cds.
+ACCESSION   JN859553
+VERSION     JN859553.1
+KEYWORDS    .
+SOURCE      Brassica oleracea (wild cabbage)
+  ORGANISM  Brassica oleracea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Brassica.
+REFERENCE   1  (bases 1 to 1155)
+  AUTHORS   Lee,K.R., In Sohn,S., Jung,J.H., Kim,S.H., Roh,K.H., Kim,J.B.,
+            Suh,M.C. and Kim,H.U.
+  TITLE     Functional analysis and tissue-differential expression of four FAD2
+            genes in amphidiploid Brassica napus derived from Brassica rapa and
+            Brassica oleracea
+  JOURNAL   Gene 531 (2), 253-262 (2013)
+   PUBMED   24029080
+REFERENCE   2  (bases 1 to 1155)
+  AUTHORS   Lee,K.-R., Kim,S.-H., Roh,K.-H., Kim,J.-B. and Kim,H.U.
+  TITLE     Cloning of Brassica oleracea microsomal delta-12 oleate desaturase
+            (BrFAD2) genes
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 1155)
+  AUTHORS   Lee,K.-R., Kim,S.-H., Roh,K.-H., Kim,J.-B. and Kim,H.U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-OCT-2011) Agricultural Bio-resources, National
+            Academy of Agricultural Science, RDA, 150 Suin-ro, Suwon,
+            Gyeonggi-do 441-707, Republic of Korea
+FEATURES             Location/Qualifiers
+     source          1..1155
+                     /organism="Brassica oleracea"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:3712"
+     mRNA            <1..>1155
+                     /product="FAD2-2"
+     CDS             1..1155
+                     /note="BoFAD2-2"
+                     /codon_start=1
+                     /product="FAD2-2"
+                     /protein_id="AFC41107.1"
+                     /translation="MGAGGRMQVSPPSSSPETNTLKRVPCETPPFTLGDLKKAIPPHC
+                     FKRSIPRSFSYLLFDIIISSSLYHLSTAYFPLLPHPLPYLAWPLYWACQGCVLTGLWV
+                     IAHECGHHAFSDHQLLDDAVGLVFHSFLLVPYFSWKYSHRRHHSNTGSLERDEVFVPK
+                     KKSDVKWYGKYLNNPLGRTVMLTVQFTLGWPLYLAFNVSGRPYSDGFACHFHPNAPIY
+                     NDRERLQIYISDAGVLSVCYGLYRYAGSRGVASMVCVYGVPLMIVNCFLVLITYLQHT
+                     HPSLPHYDSSEWDWLRGALATVDRDYGILNKVFHNITDTHVAHHLFSTMPHYNAMEAT
+                     KAIKPILGEYYQFDGTPVVKAMWREAKECIYVEPDRQGEKKGVFWYNNKL"
+ORIGIN      
+        1 atgggtgcag gtggaagaat gcaagtctct cctccctcca gctcccccga aaccaacacc
+       61 ctcaaacgcg tcccctgcga gacaccaccc ttcactctcg gagacctcaa gaaagcaatc
+      121 ccacctcact gcttcaaacg ctccatcccg cgctccttct cctacctcct cttcgacatc
+      181 atcatctcct cctccctcta ccacctctcc acagcctact tccctctcct cccccaccct
+      241 ctcccttacc tcgcctggcc cctctactgg gcctgccaag gctgcgtcct aacgggcctc
+      301 tgggtcatcg cccacgagtg cggccaccac gccttcagcg accaccagtt gctggacgac
+      361 gccgtgggcc tcgtcttcca ctccttcctc ctcgtccctt acttctcctg gaagtacagc
+      421 catcgacgcc accattccaa caccggatcc ctcgagaggg atgaagtgtt cgtccccaag
+      481 aagaaatccg acgtcaagtg gtacggcaag tacctcaaca acccgctagg acgcacggtg
+      541 atgctaaccg tccagttcac gctcggctgg ccgttgtact tagccttcaa cgtctctgga
+      601 agaccttaca gcgacggttt cgcttgccat ttccacccga acgctcccat ctacaacgac
+      661 cgcgagcgtc tccagatata catctctgac gctggcgtcc tctccgtatg ttacggtctc
+      721 taccgctacg ctggttcgcg aggagtggcc tcgatggtct gtgtctacgg agttccgctt
+      781 atgattgtca actgtttcct cgtcttgatc acttacttgc agcacacgca cccttcgctg
+      841 cctcactatg attcttcgga gtgggattgg ttgagaggag ctttggctac tgtggataga
+      901 gactatggaa tcttgaacaa ggtgtttcat aacatcacgg acacgcacgt ggcgcatcat
+      961 ctgttctcga cgatgccgca ttataacgcg atggaagcga ccaaggcgat aaagccgata
+     1021 cttggagagt attaccagtt tgatggaacg ccggtggtta aggcgatgtg gagggaggcg
+     1081 aaggagtgta tctatgttga accggatagg caaggtgaga agaaaggtgt gttctggtac
+     1141 aacaataagt tatga
+//
+
+LOCUS       JN859552                1155 bp    DNA     linear   PLN 19-NOV-2013
+DEFINITION  Brassica oleracea FAD2-1 gene, complete cds.
+ACCESSION   JN859552
+VERSION     JN859552.1
+KEYWORDS    .
+SOURCE      Brassica oleracea (wild cabbage)
+  ORGANISM  Brassica oleracea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Brassica.
+REFERENCE   1  (bases 1 to 1155)
+  AUTHORS   Lee,K.R., In Sohn,S., Jung,J.H., Kim,S.H., Roh,K.H., Kim,J.B.,
+            Suh,M.C. and Kim,H.U.
+  TITLE     Functional analysis and tissue-differential expression of four FAD2
+            genes in amphidiploid Brassica napus derived from Brassica rapa and
+            Brassica oleracea
+  JOURNAL   Gene 531 (2), 253-262 (2013)
+   PUBMED   24029080
+REFERENCE   2  (bases 1 to 1155)
+  AUTHORS   Lee,K.-R., Kim,S.-H., Roh,K.-H., Kim,J.-B. and Kim,H.U.
+  TITLE     Cloning of Brassica oleracea microsomal delta-12 oleate desaturase
+            (BrFAD2) genes
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 1155)
+  AUTHORS   Lee,K.-R., Kim,S.-H., Roh,K.-H., Kim,J.-B. and Kim,H.U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-OCT-2011) Agricultural Bio-resources, National
+            Academy of Agricultural Science, RDA, 150 Suin-ro, Suwon,
+            Gyeonggi-do 441-707, Republic of Korea
+FEATURES             Location/Qualifiers
+     source          1..1155
+                     /organism="Brassica oleracea"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:3712"
+     mRNA            <1..>1155
+                     /product="FAD2-1"
+     CDS             1..1155
+                     /note="BoFAD2-1"
+                     /codon_start=1
+                     /product="FAD2-1"
+                     /protein_id="AFC41106.1"
+                     /translation="MGAGGRMQVSPPSKKSETDTIKRVPCETPPFTVGELKKAIPPHC
+                     FKRSIPRSFSYLIWDIIIASCFYYVATTYFPLLPHPLSYFAWPLYWACQGCVLTGVWV
+                     IAHECGHHAFSDYQWLDDTVGLIFHSFLLVPYFSWKYSHRRHHSNTGSLERDEVFVPK
+                     KKSDIKWYGKYLNNPLGRTVMLTVQFTLGWPLYLAFNVSGRPYDGGFACHFHPNAPIY
+                     NDRERLQIYISDAGILAVCYGLYRYAAAQGVASMVCFYGVPLLIVNGFLVLITYLQHT
+                     HPSLPHYDSSEWDWLRGALATVDRDYGILNKVFHNITDTHVAHHLFSTMPHYHAMEAT
+                     KAIKPILGEYYQFDGTPVVKAMWREAKECIYVEPDRQGEKKGVFWYNNKL"
+ORIGIN      
+        1 atgggtgcag gtggaagaat gcaagtgtct cctccctcca agaagtctga aaccgacacc
+       61 atcaagcgcg taccctgcga gacaccgccc ttcactgtcg gagaactcaa gaaagcaatc
+      121 ccaccgcact gtttcaaacg ctcgatccct cgctctttct cctacctcat ctgggacatc
+      181 atcatagcct cctgcttcta ctacgtcgcc accacttact tccctctcct ccctcaccct
+      241 ctctcctact tcgcctggcc tctctactgg gcctgccaag ggtgcgtcct aaccggcgtc
+      301 tgggtcatag cccacgagtg cggccaccac gccttcagcg actaccagtg gcttgacgac
+      361 accgtcggtc tcatcttcca ctccttcctc ctcgtccctt acttctcctg gaagtacagt
+      421 catcgacgcc accattccaa cactggctcc ctagagagag acgaagtgtt tgtccccaag
+      481 aagaagtccg acatcaagtg gtacggcaag tacctcaaca accctttggg acgcaccgtg
+      541 atgttaacgg ttcagttcac tctcggctgg ccgttgtact tagccttcaa cgtctcggga
+      601 agaccttacg acggcggctt cgcttgccat ttccacccca acgctcccat ctacaacgac
+      661 cgcgagcgtc tccagatata catctccgac gctggcatcc tcgccgtctg ctacggtctc
+      721 taccgttacg ccgccgcgca gggagtggcc tcgatggtct gcttctacgg agtcccgctt
+      781 ctgattgtca atggtttcct cgtcttgatc acttacttgc agcacacgca tccttccctg
+      841 cctcactacg attcgtccga gtgggattgg ttgaggggag ctttggctac cgttgacaga
+      901 gactacggaa tcttgaacaa ggtcttccac aatattaccg acacgcacgt ggcgcatcat
+      961 ctgttctcca cgatgccgca ttatcacgcg atggaagcta cgaaggcgat aaagccgata
+     1021 ctgggagagt attatcagtt cgatgggacg ccggtggtta aggcgatgtg gagggaggcg
+     1081 aaggagtgta tctatgtgga accggacagg caaggtgaga agaaaggtgt gttctggtac
+     1141 aacaataagt tatga
+//
+
+LOCUS       JQ231216                1388 bp    mRNA    linear   PLN 15-FEB-2013
+DEFINITION  Brassica oleracea chloroplast ribulose-1,5-bisphosphate
+            carboxylase/oxygenase activase (RCA) mRNA, complete cds; nuclear
+            gene for chloroplast product.
+ACCESSION   JQ231216
+VERSION     JQ231216.1
+KEYWORDS    .
+SOURCE      Brassica oleracea (wild cabbage)
+  ORGANISM  Brassica oleracea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Brassica.
+REFERENCE   1  (bases 1 to 1388)
+  AUTHORS   Zhou,S., Hu,Z., Zhu,M., Zhang,B., Li,Y. and Chen,G.
+  TITLE     Cloning, Bioinformatics and Expression Analysis of a Novel Rubisco
+            Activase Gene, BoRCA, from Brassica oleracea
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1388)
+  AUTHORS   Zhou,S., Hu,Z., Zhu,M., Zhang,B., Li,Y. and Chen,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-DEC-2011) Bioengineering College, Chongqing
+            University, 174 Shapingba Main Street, Chongqing 400044, China
+FEATURES             Location/Qualifiers
+     source          1..1388
+                     /organism="Brassica oleracea"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3712"
+     gene            1..1388
+                     /gene="RCA"
+     CDS             24..1340
+                     /gene="RCA"
+                     /codon_start=1
+                     /product="chloroplast ribulose-1,5-bisphosphate
+                     carboxylase/oxygenase activase"
+                     /protein_id="AFH35543.1"
+                     /translation="MAAAVSTVGAINRAPLSLNGSGAGAASVPATTFLGKKAVTASRF
+                     TQSNNKKSNGSFKVVAVKEDKQTDGDRWKGLAYDTSDDQQDITRGKGMVDSVFQAPMG
+                     TGTHNAVLSSYEYISQGLKQYNLDNMMDGLFIAPAFMDKLVVHITKNFLTLPNIKVPL
+                     ILGIWGGKGQGKSFQCELVMAKMGINPIMMSAGELESGNAGEPAKLIRQRYREAADMI
+                     KKGKMCCLFINDLDAGAGRMGGTTQYTVNNQMVNATLMNIADNPTNVQLPGMYNKEEN
+                     ARVPIIVTGNDFSTLYAPLIRDGRMEKFYWAPTREDRIGVCKGIFRTDNVKDEDIVTL
+                     VDQFPGQSIDFFGALRARVYDDEVRKFVEGLGVEKIGKRLVNSREGPPVFEQPAMTLE
+                     KLMEYGNMLVMEQENVKRVQLADQYLNEAALGDANADAIGRGTFYG"
+ORIGIN      
+        1 tgtgacgcaa cactcgtggg gaaatggccg ccgcagtttc caccgtcggt gccatcaaca
+       61 gagctccgtt gagcttgaac gggtcaggag caggagctgc ttcagtccca gctacgacct
+      121 tcttgggaaa gaaagctgta accgcgtcga gattcacaca gagcaacaac aagaagagca
+      181 acggatcatt caaagtggtt gctgtcaaag aagacaaaca aaccgatgga gacaggtgga
+      241 agggacttgc ctacgacacg tccgatgacc aacaagacat caccagaggc aaaggtatgg
+      301 ttgactctgt cttccaagct cccatgggaa ccggaactca caatgccgtc cttagctcct
+      361 atgagtacat tagccaaggt cttaagcagt acaacttgga caacatgatg gatgggcttt
+      421 tcattgctcc tgctttcatg gacaagcttg ttgttcacat caccaagaac ttcctgacct
+      481 tgcctaacat caaggttcca cttattttgg gtatttgggg aggcaaaggt caaggtaaat
+      541 ccttccagtg tgagcttgtc atggccaaga tgggcatcaa cccaatcatg atgagtgctg
+      601 gagagcttga gagtggaaac gcaggagagc cagccaagct gatccgtcaa aggtaccgtg
+      661 aggcagcaga catgatcaaa aagggaaaaa tgtgttgtct attcatcaac gatctcgacg
+      721 ctggtgctgg tcgtatgggt ggtactactc agtacacagt caacaaccag atggttaacg
+      781 caaccctcat gaacattgct gataacccaa ccaacgtcca gctcccggga atgtacaaca
+      841 aggaagaaaa cgcacgtgtc cctatcatcg tcaccggtaa cgatttctcc actctctacg
+      901 cacctctcat ccgtgacggg cgtatggaga aattctactg ggcacccaca cgtgaggacc
+      961 gtattggtgt ctgcaagggt atcttcagga ctgataacgt taaggatgaa gacattgtca
+     1021 cgcttgttga ccagttccct ggacaatcta tcgatttctt tggtgcgttg agggcaagag
+     1081 tgtacgatga tgaagtgagg aagttcgttg agggacttgg agtggagaag ataggaaaga
+     1141 ggctggtgaa ctcgagggaa ggtcctccag tgttcgagca accagcgatg actcttgaga
+     1201 agcttatgga gtatggaaac atgcttgtga tggagcaaga gaacgtcaag agagtccaac
+     1261 ttgctgacca ataccttaac gaggctgcct tgggagacgc gaacgcggac gccatcggcc
+     1321 gcggaacttt ctatggttag aactcgaggg aaagcagcac agcaagtgaa cctccctgtt
+     1381 ccagaagg
+//
+
